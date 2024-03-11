@@ -1,0 +1,24 @@
+{
+  "name": "window-frame-design-app",
+  "version": "1.0.0",
+  "description": "Making and editing window frame",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "konva": "9.3.6",
+    "mobx": "6.1.8",
+    "mobx-react": "7.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-konva": "18.2.7"
+  },
+  "devDependencies": {
+    "vite": "^5.0.11",
+    "@vitejs/plugin-react": "^4.2.1"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
